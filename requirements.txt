@@ -1,0 +1,5 @@
+huggingface-hub
+llama-index==0.14.13
+llama-index-embeddings-huggingface
+fastmcp
+requests
